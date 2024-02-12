@@ -1,3 +1,4 @@
+#Install pillow image libraty ->  https://pypi.org/project/pillow/
 from PIL import Image, ImageDraw,ImageFont
 import os
 
